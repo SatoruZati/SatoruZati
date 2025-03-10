@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Satadru Jati</h1>
-<h3 align="center">A part-time engineering student and full-time learner from India. I love Game Development, Cloud Computing, Machine Learning...</h3>
+<h3 align="center">A part-time engineering student and full-time learner from India. I love game development, cloud computing, machine learning...</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=satoruzati&label=Profile%20views&color=0e75b6&style=flat" alt="satoruzati" /> </p>
 
