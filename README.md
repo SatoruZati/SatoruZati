@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Satadru Jati</h1>
 <h3 align="center">A part-time engineering student and full-time learner from India. I love game development, cloud computing, machine learning...</h3>
 
-<p align="left"> <img src="https://github.com/SatoruZati/SatoruZati/blob/6f021a7ef7a5e2cd0d5143601261346412637d9d/pfp.jpg" alt="satoruzati" /> </p>
+<p align="left"> <img src="https://github.com/SatoruZati/SatoruZati/blob/23d33658890c6584dc97d37a0bfb53d5bc03ca5e/download%20(1).jpeg" alt="satoruzati" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=satoruzati" alt="satoruzati" /></a> </p>
 
