@@ -1,7 +1,7 @@
 <h1 align="center">Hola, Hello, Hi, I'm Satadru Jati</h1>
 <h3 align="center">a part-time engineering student and full-time learner who loves video games, computers and tech...</h3>
 
-<p align="left"> <img src="https://github.com/SatoruZati/SatoruZati/blob/e12e26d6b6abf37d0fadf4c2bd673c98ad413fb4/landscape-1c.gif" alt="satoruzati" /> </p>
+<p align="left"> <img src="https://github.com/SatoruZati/SatoruZati/blob/7775dbb08b2ea14783830270329674e57073e676/be54b82ccd4221f086185076f525e0c2.gif" alt="satoruzati" /> </p>
 
 <p align="left"> <a href="https://twitter.com/hasafeed_gg" target="blank"><img src="https://img.shields.io/twitter/follow/hasafeed_gg?logo=twitter&style=for-the-badge" alt="hasafeed_gg" /></a> </p>
 
@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with **Software Engineering and DSA...**
 
-- 👨‍💻 Here are my hobbies that may make you and me get along smoothly: football, formula 1, photography, gaming...
+- 👨‍💻 Here are my hobbies that may make you and me get along smoothly: **football, formula 1, photography, gaming...**
 
 - 💬 Ask me about **games, game dev, football, bits of cloud and tech...**
 
