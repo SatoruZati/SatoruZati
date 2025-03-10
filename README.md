@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://github.com/SatoruZati/SatoruZati/blob/23d33658890c6584dc97d37a0bfb53d5bc03ca5e/download%20(1).jpeg" alt="satoruzati" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=satoruzati" alt="satoruzati" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/hasafeed_gg" target="blank"><img src="https://img.shields.io/twitter/follow/hasafeed_gg?logo=twitter&style=for-the-badge" alt="hasafeed_gg" /></a> </p>
 
 - 🔭 I’m currently working on [GradeGenie](https://github.com/Team-ALTF4/GradeGenie.git)
