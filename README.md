@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Satadru Jati</h1>
 <h3 align="center">A part-time engineering student and full-time learner from India. I love game development, cloud computing, machine learning...</h3>
 
-<p align="left"> <img src="https://github.com/SatoruZati/SatoruZati/blob/23d33658890c6584dc97d37a0bfb53d5bc03ca5e/download%20(1).jpeg" alt="satoruzati" /> </p>
+<p align="left"> <img src="https://github.com/SatoruZati/SatoruZati/blob/e12e26d6b6abf37d0fadf4c2bd673c98ad413fb4/landscape-1c.gif" alt="satoruzati" /> </p>
 
 <p align="left"> <a href="https://twitter.com/hasafeed_gg" target="blank"><img src="https://img.shields.io/twitter/follow/hasafeed_gg?logo=twitter&style=for-the-badge" alt="hasafeed_gg" /></a> </p>
 
