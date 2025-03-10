@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Satadru Jati</h1>
-<h3 align="center">A part-time engineering student and full-time learner. I love game development, cloud computing, machine learning...</h3>
+<h1 align="center">Hola, Hello, Hi, I'm Satadru Jati</h1>
+<h3 align="center">a part-time engineering student and full-time learner who loves video games, computers and tech...</h3>
 
 <p align="left"> <img src="https://github.com/SatoruZati/SatoruZati/blob/e12e26d6b6abf37d0fadf4c2bd673c98ad413fb4/landscape-1c.gif" alt="satoruzati" /> </p>
 
