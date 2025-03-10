@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with **Software Engineering and DSA...**
 
-- 👨‍💻 Here are my hobbies that may make you and me get along smoothly [football, formula 1, photography, gaming...](football, formula 1, photography, gaming...)
+- 👨‍💻 Here are my hobbies that may make you and me get along smoothly: football, formula 1, photography, gaming...
 
 - 💬 Ask me about **games, game dev, football, bits of cloud and tech...**
 
