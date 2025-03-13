@@ -1,4 +1,4 @@
-<h1 align="center">Hola, Hello, Hi, I'm Satadru Jati</h1>
+<h1 align="center">Hello, Hi, I'm Satadru Jati</h1>
 <h3 align="center">a part-time engineering student and full-time learner who loves video games, computers and tech...</h3>
 
 <p align="left"> <img src="https://github.com/SatoruZati/SatoruZati/blob/7775dbb08b2ea14783830270329674e57073e676/be54b82ccd4221f086185076f525e0c2.gif" alt="satoruzati" /> </p>
