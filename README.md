@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/hasafeed_gg" target="blank"><img src="https://img.shields.io/twitter/follow/hasafeed_gg?logo=twitter&style=for-the-badge" alt="hasafeed_gg" /></a> </p>
 
-- 🔭 I’m currently working on [GradeGenie](https://github.com/Team-ALTF4/GradeGenie.git)
+- 🔭 I’m currently working on [Assessly](https://github.com/TheBotHeads/Assessly.git)
 
 - 🌱 I’m currently learning **Cloud Computing, Machine Learning and a little bit of this and that...**
 
