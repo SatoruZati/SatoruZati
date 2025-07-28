@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/hasafeed_gg" target="blank"><img src="https://img.shields.io/twitter/follow/hasafeed_gg?logo=twitter&style=for-the-badge" alt="hasafeed_gg" /></a> </p>
 
-- 🔭 I’m currently studying on Artificial Intelligence and Machine Learning 
+- 🔭 I’m currently studying on **Artificial Intelligence and Machine Learning**
 
 - 🌱 I’m currently learning **Machine Learning, Artificial Intelligence, Game Development, Cloud Computing, and a little bit of this and that...**
 
